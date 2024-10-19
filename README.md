@@ -15,7 +15,7 @@ The University Management System is a software application designed in Python by
 Clone the repository :
 
    ```bash
-   git clone https://github.com/yourusername/University-Management-System.git
+   git clone https://github.com/im-muhammadumair/university_management_system_using_python.git
    ```
 Enter the project repository folder :
 
