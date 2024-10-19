@@ -30,35 +30,16 @@ python src/main.py
 ```
 
 ## Repository Structure
-```
-University-Management-System/
-│
-├── src/
-│   ├── __init__.py
-│   ├── main.py              # Entry point for the application
-│   ├── models.py            # Contains class definitions (Member, Student, Teacher, Course, Program, SubCampus)
-│   ├── university_management.py  # Contains UniversityManagementSystem class and related methods
-│   ├── utils.py             # Any utility functions you might want to include
-│   └── data/
-│       ├── students.json    # Sample JSON file for student data
-│       ├── teachers.json     # Sample JSON file for teacher data
-│       ├── courses.json      # Sample JSON file for courses data
-│       └── programs.json     # Sample JSON file for programs data
-│
-├── tests/
-│   ├── __init__.py
-│   ├── test_models.py        # Tests for models
-│   ├── test_management.py     # Tests for the UniversityManagementSystem functionality
-│   └── test_utils.py         # Tests for utility functions
-│
-├── docs/
-│   ├── architecture.md        # Overview of the system architecture
-│   ├── user_manual.md         # User manual for operating the system
-│   └── api_reference.md       # API reference if applicable
-│
-├── requirements.txt           # Python package dependencies
-├── README.md                  # Project overview, installation, usage, etc.
-└── LICENSE                    # License information
+
+
+Here’s the repository structure without the src folder, as requested:
+
+```bash
+University-Management-System
+      │
+      ├──── main.py                
+      ├─ README.md              
+      └──── LICENSE     
 ```
 
 ## Contributing
